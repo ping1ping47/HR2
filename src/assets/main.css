@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Anuphan:wght@100..700&family=Madimi+One&family=Noto+Sans+Thai+Looped:wght@100;200;300;400;500;600;700;800;900&family=Noto+Serif+Thai:wght@100..900&display=swap');
+
+#app {
+  font-family: "Anuphan", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  margin: 0 auto;
+  font-weight: normal;
+}
